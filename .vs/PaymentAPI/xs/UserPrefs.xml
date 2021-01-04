@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F60B9C71-8C1A-4742-AACE-1EC258E1BB2A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentAPI" expanded="True">
+            <Node name="PaymentAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PaymentDetailController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaymentAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
